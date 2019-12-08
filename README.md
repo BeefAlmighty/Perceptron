@@ -1,12 +1,12 @@
 # Perceptron
-Implementation of Perceptron algorithm with Visualization
+Implementation of Perceptron algorithm with Visualization of learning process. 
 
 # Sample Usage 
 
 Designed for 2-dimensional binary classification with examples displaying in a [-10,10]x[-10,10]grid.  Perceptron initializes with 3-vector weights.
 
 
-Use case: 
+## Basic Use case: 
 
 n_samples=100
 
